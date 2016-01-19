@@ -1,0 +1,1 @@
+Sistema desenvolvido em linguagem C#, usando Windows Forms, com banco de dados SQLServer Express, destinado ao controle de vendas e estoque.
